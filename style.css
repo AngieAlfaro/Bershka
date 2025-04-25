@@ -61,7 +61,7 @@ nav ul li a:hover {background: white;
     margin: 10px 10px 10px 20px;
   }
   .abrir_inicio{
-    background-image: url(/IMG/foto.jpeg);
+    background-image: url(foto.jpeg);
     background: rgb(160, 81, 8);
     backdrop-filter: blur(2px);
     transform: translate(0%);
@@ -69,7 +69,7 @@ nav ul li a:hover {background: white;
     transition: 0.5s;
   }
   .colocar_x {
- background-image: url(/IMG/foto.jpeg);
+ background-image: url(foto.jpeg);
  background-color: white;
  background-repeat: no-repeat;
  background-position: center;
