@@ -62,7 +62,7 @@ nav ul li a:hover {background: beige;
   }
   .abrir_inicio{
     background-image: url(IMG/New\ -\ Women.jpeg);
-    background: rgb(160, 81, 8);
+    background: brown(160, 81, 8);
     backdrop-filter: blur(2px);
     transform: translate(0%);
     width: 50%;
