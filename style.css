@@ -21,7 +21,7 @@ ul li a {
     text-align: center;
     font-size: 1.1rem;
 }
-nav ul li a:hover {background: white;
+nav ul li a:hover {background: #c7c8ca;
     font-size: 20px;
 }
 @media(max-width: 850){
