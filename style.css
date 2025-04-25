@@ -5,7 +5,7 @@
 }
 .barras {display: none;
 }
-.desplegable{background: grey;
+.desplegable{background: black;
 }
 ul{
     display: flex;
