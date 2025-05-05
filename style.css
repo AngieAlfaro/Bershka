@@ -31,7 +31,7 @@ nav ul li a:hover {background-color: #c7c7c7;
         display: block;
     }
     .desplegable {
- transform: translate(-100%);
+ transform: translate(-100);
  transition: 0.5;
  font-size:1.5;
  width: 50;
@@ -63,15 +63,15 @@ nav ul li a:hover {background-color: #c7c7c7;
     margin: 10 10 10 20;
   }
   .abrir_inicio{
-    background-image: url(/IMG/foto.jpeg);
+    background-image: url(foto.jpeg);
     background: (160, 81, 8);
     backdrop-filter: (2);
-    transform: translate(0);
+    transform: (0);
     width: 50;
     transition: 0.5;
   }
   .colocar_x {
- background-image: url(/IMG/foto.jpeg);
+ background-image: url(foto.jpeg);
  background-color: #c7c8ca;
  background-repeat: no-repeat;
  background-position: center;
@@ -85,5 +85,5 @@ nav ul li a:hover {background-color: #c7c7c7;
     }
 }
 .hombre, .ropa, .Accesorios{
- font-size: 30px;
+ font-size: 30;
  text-align: center}
