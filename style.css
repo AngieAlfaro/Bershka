@@ -31,15 +31,12 @@ nav ul li a:hover {background-color: #c7c7c7;
         background-color: black;
         display: block;
     }
-    .desplegable {
-        top: 50%;
-        left: 50%;
+   .desplegable {
  transform: translate(-100%);
  transition: 0.5s;
  font-size:1.5rem;
  width: 50%;
- background: #c7c7c7;
- padding: 20px;
+ background: none;
     }
     ul {
         display: flex;
