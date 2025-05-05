@@ -16,13 +16,12 @@ ul li{
     list-style: none;
 }
 ul li a {
-    color: brown;
     text-decoration: none;
     text-align: center;
-    font-size: 1.1rem;
+    font-size: 2.0 rem;
     background-color: #c7c7c7;
 }
-nav ul li a:hover {background-color: wheat;
+nav ul li a:hover {background-color: #c7c7c7;
     font-size: 10px;
     width: 100px;
     height: 50;
@@ -33,17 +32,15 @@ nav ul li a:hover {background-color: wheat;
         display: block;
     }
     .desplegable {
-        position: fixed;
         top: 50%;
         left: 50%;
  background: none;
- transform: translate(-50%, -50%);
+ transform: translate(-100%);
  transition: 0.5s;
  font-size:1.5rem;
  width: 50%;
  background: #c7c7c7;
  padding: 20px;
- z-index: 999;
     }
     ul {
         display: flex;
