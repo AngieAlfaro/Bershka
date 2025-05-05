@@ -23,6 +23,8 @@ ul li a {
 }
 nav ul li a:hover {background: #c7c8ca;
     font-size: 10px;
+    width: 100px;
+    height: 50;
 }
 @media(max-width: 1000){
     .barras {
