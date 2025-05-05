@@ -22,24 +22,31 @@ ul li a {
     font-size: 1.1rem;
 }
 nav ul li a:hover {background: #c7c8ca;
-    font-size: 100px;
+    font-size: 10px;
 }
-@media(max-width: 850){
+@media(max-width: 1000){
     .barras {
         background-color: black;
         display: block;
     }
     .desplegable {
+        position: fixed;
+        top: 50%;
+        left: 50%;
  background: none;
- transform: translate(-100%);
+ transform: translate(-50%, -50%);
  transition: 0.5s;
  font-size:1.5rem;
  width: 50%;
+ background: #c7c7c7;
+ padding: 20px;
+ z-index: 999;
     }
     ul {
         display: flex;
         flex-direction: column;
         height: 100vh;
+        width: 100vh;
     }
     a{
         padding: 0;
