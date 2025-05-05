@@ -16,9 +16,10 @@ ul li{
     list-style: none;
 }
 ul li a {
+    color: brown;
     text-decoration: none;
     text-align: center;
-    font-size: 2.0 rem;
+    font-size: 1.1rem;
     background-color: #c7c7c7;
 }
 nav ul li a:hover {background-color: #c7c7c7;
@@ -31,7 +32,7 @@ nav ul li a:hover {background-color: #c7c7c7;
         background-color: black;
         display: block;
     }
-   .desplegable {
+    .desplegable {
  transform: translate(-100%);
  transition: 0.5s;
  font-size:1.5rem;
@@ -87,5 +88,4 @@ nav ul li a:hover {background-color: #c7c7c7;
 }
 .hombre, .ropa, .Accesorios{
  font-size: 30px;
- text-align: center;
-}
+ text-align: center}
