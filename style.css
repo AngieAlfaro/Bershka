@@ -27,7 +27,7 @@ nav ul li a:hover {background-color: #c7c7c7;
 }
 @media(max-width: 1000px){
     .barras { 
-        background-color: black;
+        background-color: white;
         display: block;
     }
     .desplegable {
