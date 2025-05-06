@@ -22,7 +22,7 @@ ul li a {
     font-size: 1.1;
     background-color: #c7c7c7;
 }
-nav ul li a:hover {background-color: black;
+nav ul li a:hover {background-color: #c7c7c7;
     font-size: 10;
 }
 @media(max-width: 1000px){
@@ -87,3 +87,5 @@ nav ul li a:hover {background-color: black;
 .hombre, .ropa, .Accesorios{
  font-size: 30;
  text-align: center}
+
+  
